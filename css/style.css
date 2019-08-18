@@ -55,4 +55,8 @@ h4 {
   width: 303%;
 }
 
-.img 
+.img {
+  border: solid;
+  box-shadow: (<shadow>);
+  
+}
